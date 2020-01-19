@@ -6,7 +6,7 @@ drag: 0.03
 speed: 0.005
 maxVelocity: 0.2
 flying: true
-health: 17000
+health: 1700
 engineOffset: 38
 engineSize: 6.5
 rotatespeed: 0.01
